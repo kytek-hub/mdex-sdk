@@ -1204,6 +1204,18 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^13.0.0"
 
+"@mdex-libs/sdk@github:kytek-hub/mdex-sdk":
+  version "3.0.3"
+  resolved "https://codeload.github.com/kytek-hub/mdex-sdk/tar.gz/5d21952d809dde1639fc7be09efabe2496ce25e3"
+  dependencies:
+    "@uniswap/v2-core" "^1.0.0"
+    big.js "^5.2.2"
+    decimal.js-light "^2.5.0"
+    jsbi "^3.1.1"
+    tiny-invariant "^1.1.0"
+    tiny-warning "^1.0.3"
+    toformat "^2.0.0"
+
 "@rollup/plugin-commonjs@^11.0.0":
   version "11.1.0"
   resolved "https://registry.yarnpkg.com/@rollup/plugin-commonjs/-/plugin-commonjs-11.1.0.tgz#60636c7a722f54b41e419e1709df05c7234557ef"
